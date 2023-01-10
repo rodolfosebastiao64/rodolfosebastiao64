@@ -1,7 +1,8 @@
 ### Olá!! :rocket:  :rocket:
 
 <br>
-<br
+<br>
+    
 Me chamo Rodolfo Ribeiro, sou um programador Front End. Aqui estão alguns dos meus trabalhos: atualmente desenvolvendo projetos com Html, Css, JavaScript e React.
     
 <br>
